@@ -1,2 +1,6 @@
 This is my first text file
 I'm pabboz vyshnavi
+yellow
+red 
+pink
+orange
